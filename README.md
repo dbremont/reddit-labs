@@ -1,8 +1,6 @@
-# Reddit Labs
+# Reddit Labs 🤖🚀
 
-# **Personal Reddit Client – Smart, Fast & Customizable** 🤖🚀  
-
-A **lightweight, AI-powered** Reddit client designed for **intelligent browsing, automation, and personalization**. Whether you're looking for a **distraction-free experience, real-time insights, or smart filtering**, this project redefines how you interact with Reddit.  
+> A **lightweight, AI-powered** Reddit client designed for **intelligent browsing, automation, and personalization**. Whether you're looking for a **distraction-free experience, real-time insights, or smart filtering**, this project redefines how you interact with Reddit.  
 
 ---
 
@@ -68,7 +66,3 @@ This is an open-source project! Feel free to **open an issue**, suggest new **AI
 MIT License – Free to use, modify, and distribute.  
 
 🚀 **Experience Reddit like never before with AI-powered intelligence!** Fork this repo and start building your **smart Reddit client** today!  
-
----
-
-Want **more AI features**, a **browser extension version**, or a **demo link**? Let me know! 😃
